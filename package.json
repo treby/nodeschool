@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bl": "^0.9.4",
     "learnyounode": "^2.5.2"
   }
 }
